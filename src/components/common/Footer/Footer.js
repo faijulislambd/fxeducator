@@ -30,7 +30,7 @@ const Footer = () => {
           <Title className="text-xl">Quick links</Title>
           <ul>
             <ListLink>About Us</ListLink>
-            <ListLink>Blog</ListLink>
+            <ListLink>Article</ListLink>
             <ListLink>Educators</ListLink>
             <ListLink>Topics</ListLink>
           </ul>
