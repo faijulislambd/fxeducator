@@ -31,7 +31,7 @@ const Header = () => {
           {!mobileMenu ? <IoMdMenu></IoMdMenu> : <IoMdClose></IoMdClose>}
         </div>
         <ul
-          className={`lg:flex-row lg:space-y-0 lg:items-center lg:space-x-2 lg:relative lg:bg-transparent lg:py-0 lg:px-0 lg:w-auto lg:translate-y-0 lg:opacity-100 lg:pointer-events-auto absolute space-y-3 flex flex-col bg-slate-200 w-full left-0 py-4 px-4 transition-all top-full ${
+          className={`lg:flex-row lg:space-y-0 lg:items-center lg:space-x-2 lg:relative lg:bg-transparent lg:py-0 lg:px-0 lg:w-auto lg:translate-y-0 lg:opacity-100 lg:pointer-events-auto absolute space-y-3 flex flex-col bg-slate-200 w-full left-0 py-4 px-4 transition-all top-full z-[9999] ${
             !mobileMenu
               ? "translate-y-10 opacity-0 pointer-events-none"
               : "translate-y-0 opacity-1"
