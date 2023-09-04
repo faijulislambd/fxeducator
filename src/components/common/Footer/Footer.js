@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <div className="bg-slate-700 pt-8 text-white">
       <Container className="flex items-center flex-wrap">
-        <div className="lg:w-6/12 w-full lg:pe-8 pe-0">
+        <div className="lg:w-6/12 w-full lg:pe-8 pe-0 mb-10 lg:mb-0">
           <div className="mb-4">
             <Image
               src={logoWhite}
