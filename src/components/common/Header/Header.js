@@ -37,19 +37,19 @@ const Header = () => {
               : "translate-y-0 opacity-1"
           }`}
         >
-          <li>
+          <li className="inline-flex">
             <NavLink href="/">Home</NavLink>
           </li>
-          <li>
+          <li className="inline-flex">
             <NavLink>About Us</NavLink>
           </li>
-          <li>
+          <li className="inline-flex">
             <NavLink>Courses</NavLink>
           </li>
-          <li>
+          <li className="inline-flex">
             <NavLink>Article</NavLink>
           </li>
-          <li>
+          <li className="inline-flex">
             <NavLink>Signals</NavLink>
           </li>
           <li>
