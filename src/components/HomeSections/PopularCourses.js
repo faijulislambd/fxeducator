@@ -7,9 +7,9 @@ import image3 from "@/assets/images/c-3.jpg";
 
 const PopularCourses = () => {
   return (
-    <section className="py-40 bg-slate-50">
+    <section className="py-32 bg-slate-50">
       <Container>
-        <Title className="text-center text-3xl before:left-1/2 before:-translate-x-1/2 before:w-1/6 mb-20">
+        <Title className="text-center text-3xl before:left-1/2 before:-translate-x-1/2 before:w-2/12 mb-24">
           Our Top 3 Courses
         </Title>
         <div className="flex flex-wrap items-center justify-center -mx-5">

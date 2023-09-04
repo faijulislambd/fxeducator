@@ -4,9 +4,9 @@ import Title from "../utils/Title";
 
 const PackageSection = () => {
   return (
-    <section className="py-40">
+    <section className="py-32">
       <Container>
-        <Title className="text-center text-4xl before:left-1/2 before:-translate-x-1/2 before:w-1/6 mb-[2.8rem]">
+        <Title className="text-center text-4xl before:left-1/2 before:-translate-x-1/2 before:w-2/12 mb-[2.8rem]">
           FX Combo Packages
         </Title>
         <div className="flex flex-wrap items-center justify-center -mx-5">
