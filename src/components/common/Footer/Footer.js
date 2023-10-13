@@ -54,7 +54,7 @@ const Footer = () => {
           </ul>
         </div>
       </Container>
-      <div className="border-t-2 border-t-slate-600 py-4 text-center text-xl font-medium mt-8">
+      <div className="border-t-2 border-t-slate-600 py-4 text-center text-md font-medium mt-8">
         All Rights Reserved || &copy;2023
       </div>
     </div>

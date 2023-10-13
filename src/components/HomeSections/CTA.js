@@ -9,7 +9,7 @@ const CTA = () => {
           So what are you waiting for? Join us!!!
         </div>
         <Link href="#">
-          <Button className="text-xl">Start Trading</Button>
+          <Button className="text-xl">Sign Up & Start Trading!</Button>
         </Link>
       </div>
     </section>

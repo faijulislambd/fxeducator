@@ -41,10 +41,10 @@ const Header = () => {
             <NavLink href="/">Home</NavLink>
           </li>
           <li className="inline-flex">
-            <NavLink>About Us</NavLink>
+            <NavLink href="/about">About Us</NavLink>
           </li>
           <li className="inline-flex">
-            <NavLink>Courses</NavLink>
+            <NavLink href="/courses">Courses</NavLink>
           </li>
           <li className="inline-flex">
             <NavLink>Article</NavLink>
